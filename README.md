@@ -54,7 +54,10 @@
   <img width="100" height="25" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" style="background-color: #FFCA28; border-radius: 5px;" />
   <img width="120" height="25" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" style="background-color: #000000; border-radius: 5px;" />
   <img width="80" height="25" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" style="background-color: #000000; border-radius: 5px;" />
+  <img width="80" height="25" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" style="background-color: #F05032; border-radius: 5px;" />
+  <img width="100" height="25" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" style="background-color: #181717; border-radius: 5px;" />
 </p>
+
 
 
 
