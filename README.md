@@ -40,21 +40,23 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img width="50" height="25"  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img width="50" height="25" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-  <img width="50" height="25" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css" />
-  <img width="50" height="25" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
-  <img width="50" height="25" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c" />
-  <img width="80" height="25" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img width="80" height="25" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-  <img width="80" height="25" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
-  <img width="80" height="25" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
-  <img width="80" height="25" src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express" />
-  <img width="80" height="25" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-  <img width="80" height="25" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase" />
-  <img width="80" height="25" src="https://img.shields.io/badge/-JWT-black?style=flat-square&logo=json-web-tokens" />
-  <img width="80" height="25" src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel" />
+  <img width="100" height="25" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="background-color: #E34F26; border-radius: 5px;" />
+  <img width="80" height="25" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="background-color: #1572B6; border-radius: 5px;" />
+  <img width="120" height="25" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" style="background-color: #38B2AC; border-radius: 5px;" />
+  <img width="100" height="25" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" style="background-color: #563D7C; border-radius: 5px;" />
+  <img width="50" height="25" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" style="background-color: #A8B9CC; border-radius: 5px;" />
+  <img width="100" height="25" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="background-color: #F7DF1E; border-radius: 5px;" />
+  <img width="80" height="25" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" style="background-color: #61DAFB; border-radius: 5px;" />
+  <img width="80" height="25" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" style="background-color: #000000; border-radius: 5px;" />
+  <img width="80" height="25" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" style="background-color: #339933; border-radius: 5px;" />
+  <img width="100" height="25" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" style="background-color: #000000; border-radius: 5px;" />
+  <img width="80" height="25" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" style="background-color: #47A248; border-radius: 5px;" />
+  <img width="100" height="25" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" style="background-color: #FFCA28; border-radius: 5px;" />
+  <img width="120" height="25" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" style="background-color: #000000; border-radius: 5px;" />
+  <img width="80" height="25" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" style="background-color: #000000; border-radius: 5px;" />
 </p>
+
+
 
 ---
 
