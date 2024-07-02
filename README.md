@@ -58,7 +58,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jewel1269" alt="jewel1269" /></p>
-  <p>&nbsp;<img align="center" margin-top="10" src="https://github-readme-stats.vercel.app/api?username=jewel1269&show_icons=true" alt="jewel1269" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewel1269&layout=compact&hide=html" alt="jewel1269" /></p>
+  <p>&nbsp;<img align="center" margin-top="10" src="https://github-readme-stats.vercel.app/api?username=jewel1269&show_icons=true" alt="jewel1269" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jewel1269" alt="jewel1269" /></p>
+
