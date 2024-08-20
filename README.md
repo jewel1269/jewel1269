@@ -1,25 +1,21 @@
 ![img](https://i.ibb.co/JsJtQMx/Architect-Linkedin-Background.png)
 
 <h1 align="center">Hi 👋, I'm Jewel Mia</h1>
-<h3 align="center">Passionate Full Stack Web Developer proficient in JavaScript, Node.js, React also Next.js, and MongoDB, dedicated to delivering exceptional user-centric solutions.</h3>
+<h3 align="center">Full Stack Software Developer | MERN Stack Enthusiast | Passionate about creating efficient, user-centric web applications.</h3>
 
 <img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jewel1269&label=Profile%20views&color=0e75b6&style=flat-square" alt="jewel1269" /> </p>
 
-- 🔭 I’m currently working on ->E-Commerce-platfrom Name is Tasty-Daily-Ecommerce
+- 🔭 I’m currently working on ->E-bitans Limited
 
-- 🌱 I’m currently learning **TypeScript and Redux Toolkit**
+- 👯 I’m looking to collaborate on E-bitans software projects 
 
-- 👯 I’m looking to collaborate on [Bistro Boss Restaurant](https://bistro-boss-restaurant.web.app/) also [Parcel-management-System](https://parcel-system-management.web.app/) 
-
-- 🤝 I’m looking for help with [Doctor House](https://doc-house-362a7.web.app/)
-
-- 💬 Ask me about **React.js, Node.js, Express.js, JavaScript**
+- 💬 Ask me about **React.js, React Native, Next.js, Node.js, Express.js, JavaScript< Es6, TypeScript**
 
 - 📫 How to reach me **jewelmia2330@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nlm5-EWm57c9vmttFeVmWJau3-JVsb3a/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Z8PstX0bq2qfHbXSzOWoFnCm-H6tmdAd/view)
 
 - ⚡ Fun fact **Playing and Watching Movies**
 
