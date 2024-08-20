@@ -42,18 +42,19 @@
   <img width="100" height="25" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" style="background-color: #563D7C; border-radius: 5px;" />
   <img width="50" height="25" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" style="background-color: #A8B9CC; border-radius: 5px;" />
   <img width="100" height="25" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="background-color: #F7DF1E; border-radius: 5px;" />
-  <img width="80" height="25" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" style="background-color: #61DAFB; border-radius: 5px;" />
-  <img width="80" height="25" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" style="background-color: #000000; border-radius: 5px;" />
-  <img width="80" height="25" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" style="background-color: #339933; border-radius: 5px;" />
-  <img width="100" height="25" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" style="background-color: #000000; border-radius: 5px;" />
-  <img width="80" height="25" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" style="background-color: #47A248; border-radius: 5px;" />
-  <img width="100" height="25" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" style="background-color: #FFCA28; border-radius: 5px;" />
-  <img width="120" height="25" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" style="background-color: #000000; border-radius: 5px;" />
   <img width="80" height="25" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="background-color: #00599C; border-radius: 5px;" />
   <img width="100" height="25" src="https://img.shields.io/badge/-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="background-color: #F7DF1E; border-radius: 5px;" />
   <img width="120" height="25" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" style="background-color: #3178C6; border-radius: 5px;" />
   <img width="120" height="25" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" style="background-color: #61DAFB; border-radius: 5px;" />
   <img width="100" height="25" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" style="background-color: #764ABC; border-radius: 5px;" />
+  <img width="80" height="25" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" style="background-color: #61DAFB; border-radius: 5px;" />
+  <img width="80" height="25" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" style="background-color: #000000; border-radius: 5px;" />
+  <img width="80" height="25" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" style="background-color: #339933; border-radius: 5px;" />
+  <img width="100" height="25" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" style="background-color: #000000; border-radius: 5px;" />
+  <img width="80" height="25" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" style="background-color: #47A248; border-radius: 5px;" />
+  <img width="120" height="25" src="https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" style="background-color: #880000; border-radius: 5px;" />
+  <img width="100" height="25" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" style="background-color: #FFCA28; border-radius: 5px;" />
+  <img width="120" height="25" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" style="background-color: #000000; border-radius: 5px;" />
   <img width="80" height="25" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" style="background-color: #000000; border-radius: 5px;" />
   <img width="80" height="25" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" style="background-color: #F05032; border-radius: 5px;" />
   <img width="100" height="25" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" style="background-color: #181717; border-radius: 5px;" />
