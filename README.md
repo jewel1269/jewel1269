@@ -1,5 +1,6 @@
-<img src="[https://i.ibb.co/JsJtQMx/Architect-Linkedin-Background.png](https://contentstatic.techgig.com/photo/98517027/5-best-tips-to-write-a-cover-letter-as-a-software-developer.jpg?24886)" alt="img" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 10px;" />
-
+<p  box-shadow="10" border-radius="15">
+  ![img](https://i.ibb.co/JsJtQMx/Architect-Linkedin-Background.png)
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Jewel Mia</h1>
