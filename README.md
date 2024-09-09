@@ -1,6 +1,5 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jewel1269&label=Profile%20views&color=0e75b6&style=flat-square" alt="jewel1269" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 8px;" />
-</p>
+<img src="[https://i.ibb.co/JsJtQMx/Architect-Linkedin-Background.png](https://contentstatic.techgig.com/photo/98517027/5-best-tips-to-write-a-cover-letter-as-a-software-developer.jpg?24886)" alt="img" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 10px;" />
+
 
 
 <h1 align="center">Hi 👋, I'm Jewel Mia</h1>
