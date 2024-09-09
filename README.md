@@ -1,4 +1,4 @@
-![img](https://i.ibb.co/JsJtQMx/Architect-Linkedin-Background.png)
+![img](https://contentstatic.techgig.com/photo/98517027/5-best-tips-to-write-a-cover-letter-as-a-software-developer.jpg?24886)
 
 <h1 align="center">Hi 👋, I'm Jewel Mia</h1>
 <h3 align="center">Full Stack Software Developer | MERN Stack Enthusiast | Passionate about creating efficient, user-centric web applications.</h3>
