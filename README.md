@@ -1,6 +1,5 @@
-<p  box-shadow="10" border-radius="15">
+
   ![img](https://i.ibb.co/JsJtQMx/Architect-Linkedin-Background.png)
-</p>
 
 
 <h1 align="center">Hi 👋, I'm Jewel Mia</h1>
