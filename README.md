@@ -1,5 +1,5 @@
 
-  ![img](https://i.ibb.co/JsJtQMx/Architect-Linkedin-Background.png)
+  ![img](https://c8.alamy.com/comp/D0G3B8/software-development-concept-in-tag-cloud-on-black-background-D0G3B8.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Jewel Mia</h1>
