@@ -1,9 +1,11 @@
 
-  ![img](https://c8.alamy.com/comp/D0G3B8/software-development-concept-in-tag-cloud-on-black-background-D0G3B8.jpg)
+  ![img](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220609003826/Software-Developer-Salary-Skills-and-Future-Career.png)
 
 
-<h1 align="center">Hi 👋, I'm Jewel Mia</h1>
-<h3 align="center">Full Stack Software Developer | MERN Stack Enthusiast | Passionate about creating efficient, user-centric web applications.</h3>
+<h1 align="center">👋 Hi, I'm Jewel Mia</h1>  
+<h3 align="center">Full Stack Software Developer | Passionate About Building Scalable, High-Performance & User-Friendly Web Applications</h3>  
+<h4 align="center">I specialize in developing dynamic web solutions using the latest technologies, ensuring seamless user experiences and optimized performance. Constantly learning, innovating, and striving to write clean, efficient, and maintainable code.</h4>
+
 
 <img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
