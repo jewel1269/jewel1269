@@ -1,133 +1,83 @@
 <div align="center">
-  
-# 👋 Hello, I'm **Jewel Mia**
 
-### 💼 Software Engineer | Founder & CEO at Programming Fighter
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Jewel%20Mia&fontSize=70&bold=true&fontColor=fff" width="100%" />
 
-<p>
-  <em>🚀 Building scalable, high-performance web applications and leading innovative software solutions</em>
+### 🚀 Software Engineer @ **Bina**
+**Building Scalable Systems | Full-Stack Development | AI Enthusiast**
+
+<p align="center">
+  <a href="https://www.learnwithjewel.xyz/"><b>Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/jewel-mia/"><b>LinkedIn</b></a> •
+  <a href="mailto:jewelmia.dev@gmail.com"><b>Email</b></a>
 </p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logoColor=white)](https://www.learnwithjewel.xyz/)
-[![Company](https://img.shields.io/badge/🏢_Programming_Fighter-Visit_Company-4ECDC4?style=for-the-badge&logoColor=white)](https://programming-fighter.com)
-
-<img src="https://komarev.com/ghpvc/?username=jewel1269&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+---
 
 </div>
+
+## 📊 Professional Overview
+
+I am a results-driven **Software Engineer** currently contributing to the engineering team at **Bina**. With over 4 years of experience and a track record of solving 400+ complex algorithmic problems, I specialize in architecting high-performance backend systems and fluid frontend interfaces. 
+
+Beyond my corporate role, I am deeply invested in the evolution of **Physical AI** and **Web3** technologies, constantly seeking to bridge the gap between robust software engineering and emerging innovations.
+
+## 💼 Professional Roadmap
+
+### 🔭 Current Engagement
+- 🏢 **Software Engineer** at [**Bina**](https://wearebina.com) — Architecting enterprise-level software solutions.
+- 👑 **Founder** at [**Programming Fighter**](https://programming-fighter.com) — Programming Fighter is now explicitly labeled as an EdTech platform within the Current Engagement section.*.
+
+### 🧑‍💻 Previous Experience
+- 🧠 **Backend Lead Instructor** at **Hablu Programmer** — Designed curriculum and mentored 1000+ students.
+- 💼 **Software Engineer** at **E-bitans** — Developed robust e-commerce and inventory systems.
+- 💻 **Front-end Developer** at **Lara Group** — Crafted high-performance user interfaces.
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d6d65722e676966">
+---
 
-## 🚀 About Me
+## 🛠️ Technical Ecosystem
 
-I'm a passionate **Full Stack Software Developer** and entrepreneur with expertise in modern web technologies. As the **Founder and CEO** of [**Programming Fighter**](https://programming-fighter.com), I lead a team dedicated to creating innovative software solutions. Currently, I'm also contributing my technical expertise at **Hablu Programmer**.
+### 💻 Languages & Core
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-My focus is on developing dynamic web applications that deliver seamless user experiences while maintaining optimal performance. I believe in writing clean, efficient, and maintainable code that scales with business needs.
+### 🌐 Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
 
-<br clear="right"/>
+### ⚙️ Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 Leadership Roles
-- 👑 **Founder & CEO** at [Programming Fighter](https://programming-fighter.com)
-- 💻 **Backend Instructor** at Hablu-Programmer
-- 💻 **Software Engineer** at E-bitans Limited
-- 💻 **Front-end Developer** at Lara Group Limited
-- 🎯 **Full Stack Developer** specializing in modern web technologies
-
-</td>
-<td width="50%">
-
-### 🎯 Current Focus
-- 🔭 Leading development initiatives at E-bitans Limited
-- 👯 Open to collaborating on innovative software projects
-- 💡 Building and scaling Programming Fighter
-- 📚 Continuously learning and adopting new technologies
-
-</td>
-</tr>
-</table>
-
-## 🛠️ Technical Arsenal
-
-<div align="center">
-
-### Frontend Mastery
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### Styling & UI
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-</div>
-
-## 🌐 Connect & Explore
-
-<div align="center">
-
-### 🔗 Professional Links
-[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-Visit_My_Work-FF6B6B?style=for-the-badge&logoColor=white)](https://jewel-mia-portfolio.vercel.app)
-[![Company](https://img.shields.io/badge/🏢_Programming_Fighter-Our_Company-4ECDC4?style=for-the-badge&logoColor=white)](https://programmingfighter.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-45B7D1?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1Z8PstX0bq2qfHbXSzOWoFnCm-H6tmdAd/view)
-
-### 🤝 Social Media
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewel-mia/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/iftekar13)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jewel21)
-
-### 📧 Contact Information
-[![Email](https://img.shields.io/badge/Email-jewelmia2330@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jewelmia2330@gmail.com)
-
-</div>
-
-## ⚡ Fun Facts & Interests
-
-<div align="center">
-
-🎮 **Gaming Enthusiast** | 🎬 **Movie Buff** | 🏆 **Competitive Programmer** | 💡 **Innovation Lover**
-
-</div>
+### 🤖 Automation & DevOps
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Activity & Impact
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jewel1269&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewel1269&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jewel1269&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=jewel1269&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+| :--- | :--- |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jewel1269&theme=react-dark&hide_border=true&area=true&color=0e75b6" width="100%" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=jewel1269&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -135,19 +85,15 @@ My focus is on developing dynamic web applications that deliver seamless user ex
 
 <div align="center">
 
-### 💭 Philosophy
+### 🤝 Let's Connect
+Whether you want to discuss Backend Architecture, AI Research, or Business Opportunities—feel free to reach out.
 
-*"Code is like humor. When you have to explain it, it's bad."* - **Cory House**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewel-mia/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/iftekar13)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.learnwithjewel.xyz/)
 
-### 🚀 Let's Build Something Amazing Together!
+*"Engineering is not just about writing code; it's about solving human problems with elegance."*
 
-**Open for business opportunities, collaborations, and innovative projects**
-
-[![Portfolio](https://img.shields.io/badge/🌟_Explore_My_Work-Portfolio-FF6B6B?style=for-the-badge)](https://www.learnwithjewel.xyz/)
-[![Company](https://img.shields.io/badge/🏢_Visit_Our_Company-Programming_Fighter-4ECDC4?style=for-the-badge)](https://programming-fighter.com)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%" />
 
 </div>
