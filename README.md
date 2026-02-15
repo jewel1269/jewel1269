@@ -75,7 +75,7 @@ Beyond my corporate role, I am deeply invested in the evolution of **Physical AI
 ## 📈 Activity & Impact
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jewel1269&theme=react-dark&hide_border=true&area=true&color=0e75b6" width="100%" />
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=jewel1269&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=jewel1269&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
